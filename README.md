@@ -1,0 +1,2 @@
+# ExamenTecnico
+resolución de ejercicios
